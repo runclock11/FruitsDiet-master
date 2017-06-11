@@ -9,6 +9,7 @@
 class Fruit {
     var name:String?
     var group:String?
+    var names:String?
     
     init(name: String, group: String) {
         self.name = name
